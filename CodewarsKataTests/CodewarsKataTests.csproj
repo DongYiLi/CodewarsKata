@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CountingDuplicatesTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="DeadAntsTest.cs" />
     <Compile Include="BandNamegeneratorTest.cs" />
