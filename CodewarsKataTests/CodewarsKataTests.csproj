@@ -48,6 +48,7 @@
     <Compile Include="DeadAntsTest.cs" />
     <Compile Include="BandNamegeneratorTest.cs" />
     <Compile Include="ThreeSumTest.cs" />
+    <Compile Include="NextBiggerNumberTest.cs" />
     <Compile Include="TwoSumTest.cs" />
     <Compile Include="StringAverageTest.cs" />
   </ItemGroup>
