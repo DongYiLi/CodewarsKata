@@ -47,6 +47,7 @@
     <Compile Include="BandNameGenerator.cs" />
     <Compile Include="ThreeSum.cs" />
     <Compile Include="NextBiggerNumber.cs" />
+    <Compile Include="BowlingGame.cs" />
     <Compile Include="TwoSum.cs" />
     <Compile Include="StringAverage.cs" />
   </ItemGroup>
